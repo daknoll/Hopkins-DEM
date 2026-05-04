@@ -1,0 +1,8 @@
+# Calibration data for the image file "Hopkins-Image-Cal.01.png"
+Label,Point1,Point2
+MapMarkerLabel,'15~0','4~4'
+Location,'15th Ave. & Mainstreet','4th Ave. & 4th St.'
+Longitude,-93.41876825647721,-93.40475781593804
+Latitude,44.92428323756202,44.92967758827514
+ScreenX,180.5,3661.5
+ScreenY,2028,190.5
